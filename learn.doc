@@ -1,0 +1,7 @@
+app.use
+middleware
+express.urlencoded vs express.json
+routers
+mongodb connection
+multer
+unique file name, path 
